@@ -1,3 +1,10 @@
+// Mason Bates - Spring 2020
+// https://gengames.github.io/ATK302/p5/MP1/avatar/
+/*
+This beautiful creation I refer to as the 'Good Boi'. Of course, the Good Boi is an adorable Alpaca with a little backpack to help him carry all of his stuff since he travels on the road delivering happiness to all the places he visits. Upon clicking, you can see that he has gathered a small following of other good bois, together they have created the 'Good Boi League' which, and this is true, is the most ambitious crossover event ever seen on the internet.
+*/
+
+
 const greyColoring = "#D7CAD4";
 const backgroundWhiteColoring = "#D6CAD0";
 const backgroundGreyColoring = "rgb(182,172,180)"
