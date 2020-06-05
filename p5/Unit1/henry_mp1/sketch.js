@@ -1,3 +1,6 @@
+// https://henryt1209.github.io/ATK302/p5/Week2/mp1/
+// Henry Tran - Spring 2020 
+
 var drops = [];
 var axisY = 1;
 var axisX = 0;
